@@ -1,4 +1,4 @@
-baseURL = "https://github.com/SaukratesK/hugo_website_202501/"
+baseURL = ""
 languageCode = "fr"
 defaultContentLanguage = "fr"
 title = "Mon Site Web"
